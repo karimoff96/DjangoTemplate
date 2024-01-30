@@ -1,4 +1,4 @@
-# Chatbot Service
+# Django Dockerized Template
 [![Deploy to server](https://github.com/karimoff96/DjangoTemplate.git/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/karimoff96/DjangoTemplate.git/actions/workflows/deploy.yml)
 
 Welcome to Django+Docker initial template repository. This is dockerized django project for easy setup and deployment.
